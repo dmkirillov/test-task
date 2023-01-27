@@ -6,6 +6,7 @@ Secondly, build a middleware, which checks HTTP header User-Role presents and co
 
 Run
 
+go mod tidy
 make run
 
 Test
